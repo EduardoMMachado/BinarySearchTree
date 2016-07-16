@@ -1,0 +1,14 @@
+Trabalho 1 de Algoritmos e estruturas de dados 3
+
+Aluno: Eduardo Maia Machado
+
+A linguagem escolhida para a implementação da árvore de busca BST foi C++
+por trabalhar com orientação a objetos e também com ponteiros, a única
+particularidade da implementação é a função printInOrder que não está no
+main do programa porque só foi usada em debugs do mesmo.
+
+Para criar o arquivo executável basta usar o comando make dentro da pasta
+do programa, isso criará um executável chamado mybst.
+
+O arquivo usado para testar as funções da árvore foi o teste.in e a saída
+do teste é o arquivo teste.out.
